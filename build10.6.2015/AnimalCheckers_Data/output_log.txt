@@ -1,0 +1,2708 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     816 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.063 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Research\440\AnimalCheckers\build10.6.2015\AnimalCheckers_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1098 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.478985 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 587.
+Total: 0.419561 ms (FindLiveObjects: 0.049674 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.336634 ms  DeleteObjects: 0.013958 ms)
+
+green move calculated:
+value:-9
+startpos: (-4.0, -2.0, 0.0)
+endpos(-3.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-31
+startpos: (3.0, 1.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-12
+startpos: (-3.0, -1.0, 0.0)
+endpos(-2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-32
+startpos: (4.0, -2.0, 0.0)
+endpos(3.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-10
+startpos: (-4.0, 2.0, 0.0)
+endpos(-3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-30
+startpos: (3.0, -2.0, 0.0)
+endpos(2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-8
+startpos: (-3.0, -2.0, 0.0)
+endpos(-2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-32
+startpos: (2.0, -2.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-12
+startpos: (-3.0, 2.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-34
+startpos: (4.0, 2.0, 0.0)
+endpos(4.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-5
+startpos: (-2.0, 2.0, 0.0)
+endpos(-1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-73
+startpos: (4.0, 1.0, 0.0)
+endpos(4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:8
+startpos: (-2.0, -2.0, 0.0)
+endpos(-1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-80
+startpos: (2.0, -1.0, 0.0)
+endpos(2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:30
+startpos: (-1.0, 2.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-119
+startpos: (2.0, 1.0, 0.0)
+endpos(3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:65
+startpos: (0.0, 2.0, 0.0)
+endpos(0.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-120
+startpos: (4.0, 0.0, 0.0)
+endpos(3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:41
+startpos: (-2.0, -1.0, 0.0)
+endpos(-2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-148
+startpos: (2.0, 0.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:0
+startpos: (0.0, 1.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-78
+startpos: (3.0, 0.0, 0.0)
+endpos(2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-9
+startpos: (-1.0, -2.0, 0.0)
+endpos(-1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-99
+startpos: (3.0, -1.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-34
+startpos: (-1.0, -1.0, 0.0)
+endpos(-1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-78
+startpos: (2.0, 0.0, 0.0)
+endpos(1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-36
+startpos: (0.0, 2.0, 0.0)
+endpos(0.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-61
+startpos: (3.0, 1.0, 0.0)
+endpos(3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-33
+startpos: (-1.0, 0.0, 0.0)
+endpos(-1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-59
+startpos: (1.0, 0.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-84
+startpos: (0.0, 3.0, 0.0)
+endpos(-1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-65
+startpos: (2.0, 1.0, 0.0)
+endpos(2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-79
+startpos: (-3.0, 1.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-79
+startpos: (1.0, 1.0, 0.0)
+endpos(1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-95
+startpos: (-1.0, 3.0, 0.0)
+endpos(-2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-46
+startpos: (1.0, 2.0, 0.0)
+endpos(1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-30
+startpos: (-2.0, 1.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-76
+startpos: (2.0, -1.0, 0.0)
+endpos(1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-24
+startpos: (-2.0, 2.0, 0.0)
+endpos(-1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-118
+startpos: (1.0, 3.0, 0.0)
+endpos(2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-3
+startpos: (-1.0, 2.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-177
+startpos: (2.0, 3.0, 0.0)
+endpos(3.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-8
+startpos: (0.0, 2.0, 0.0)
+endpos(0.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-113
+startpos: (3.0, 3.0, 0.0)
+endpos(3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-22
+startpos: (0.0, 3.0, 0.0)
+endpos(1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-109
+startpos: (3.0, 2.0, 0.0)
+endpos(3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-50
+startpos: (1.0, 3.0, 0.0)
+endpos(2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-128
+startpos: (3.0, 1.0, 0.0)
+endpos(4.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-49
+startpos: (2.0, 3.0, 0.0)
+endpos(1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-102
+startpos: (4.0, 1.0, 0.0)
+endpos(3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-49
+startpos: (-2.0, 3.0, 0.0)
+endpos(-1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-102
+startpos: (2.0, 0.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-40
+startpos: (-1.0, 3.0, 0.0)
+endpos(-1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-98
+startpos: (2.0, 1.0, 0.0)
+endpos(2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-101
+startpos: (1.0, 3.0, 0.0)
+endpos(0.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-87
+startpos: (2.0, 2.0, 0.0)
+endpos(2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-74
+startpos: (0.0, 3.0, 0.0)
+endpos(-1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-104
+startpos: (3.0, 0.0, 0.0)
+endpos(2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-33
+startpos: (-1.0, 1.0, 0.0)
+endpos(0.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-131
+startpos: (2.0, 3.0, 0.0)
+endpos(3.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-3
+startpos: (-2.0, 0.0, 0.0)
+endpos(-1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-146
+startpos: (2.0, 0.0, 0.0)
+endpos(1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-32
+startpos: (0.0, 1.0, 0.0)
+endpos(-1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-182
+startpos: (3.0, 1.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-33
+startpos: (-1.0, 1.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-141
+startpos: (3.0, 3.0, 0.0)
+endpos(2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-48
+startpos: (-1.0, 0.0, 0.0)
+endpos(-1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-152
+startpos: (2.0, 3.0, 0.0)
+endpos(1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-64
+startpos: (-1.0, -1.0, 0.0)
+endpos(0.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-183
+startpos: (1.0, -1.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-97
+startpos: (-1.0, 3.0, 0.0)
+endpos(-2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-176
+startpos: (2.0, -1.0, 0.0)
+endpos(3.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-75
+startpos: (-1.0, 2.0, 0.0)
+endpos(-1.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-48
+startpos: (3.0, -1.0, 0.0)
+endpos(4.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-64
+startpos: (-2.0, 3.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-63
+startpos: (4.0, -1.0, 0.0)
+endpos(4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-55
+startpos: (-2.0, 2.0, 0.0)
+endpos(-3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-47
+startpos: (4.0, 0.0, 0.0)
+endpos(3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-66
+startpos: (-3.0, 2.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-46
+startpos: (2.0, 1.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-91
+startpos: (-1.0, 3.0, 0.0)
+endpos(-2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-23
+startpos: (1.0, 1.0, 0.0)
+endpos(1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-111
+startpos: (-2.0, 1.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:16
+startpos: (1.0, 2.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-133
+startpos: (-2.0, 3.0, 0.0)
+endpos(-3.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-21
+startpos: (1.0, 3.0, 0.0)
+endpos(2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-81
+startpos: (-3.0, 1.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-43
+startpos: (0.0, 2.0, 0.0)
+endpos(1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-48
+startpos: (-3.0, 3.0, 0.0)
+endpos(-3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-37
+startpos: (2.0, 3.0, 0.0)
+endpos(2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-88
+startpos: (-2.0, 1.0, 0.0)
+endpos(-1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-39
+startpos: (2.0, 2.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-305
+startpos: (-1.0, 1.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:54
+startpos: (2.0, 1.0, 0.0)
+endpos(2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-260
+startpos: (0.0, -1.0, 0.0)
+endpos(-1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:107
+startpos: (1.0, 0.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-296
+startpos: (-2.0, 2.0, 0.0)
+endpos(-2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:156
+startpos: (2.0, 0.0, 0.0)
+endpos(1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-389
+startpos: (-1.0, -1.0, 0.0)
+endpos(-1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:174
+startpos: (1.0, 0.0, 0.0)
+endpos(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-2098
+startpos: (-3.0, 2.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:217
+startpos: (1.0, 1.0, 0.0)
+endpos(0.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1200
+startpos: (-3.0, 1.0, 0.0)
+endpos(-3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:274
+startpos: (0.0, 1.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1210
+startpos: (-2.0, 1.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:318
+startpos: (0.0, 2.0, 0.0)
+endpos(-1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-2118
+startpos: (-3.0, 0.0, 0.0)
+endpos(-2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:325
+startpos: (1.0, 2.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-2102
+startpos: (-1.0, -2.0, 0.0)
+endpos(-2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:477
+startpos: (-1.0, 2.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-3241
+startpos: (-3.0, 1.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1909
+startpos: (-2.0, 2.0, 0.0)
+endpos(-2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue piece index is:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue destination index is:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-2190
+startpos: (-2.0, 1.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1957
+startpos: (-2.0, 3.0, 0.0)
+endpos(-3.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-5063
+startpos: (-3.0, 1.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1993
+startpos: (0.0, 2.0, 0.0)
+endpos(1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-2974
+startpos: (-2.0, 0.0, 0.0)
+endpos(-3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:2077
+startpos: (0.0, 0.0, 0.0)
+endpos(-1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-4837
+startpos: (-2.0, 1.0, 0.0)
+endpos(-1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:2701
+startpos: (-1.0, 0.0, 0.0)
+endpos(-1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue piece index is:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue destination index is:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-3020
+startpos: (-2.0, -2.0, 0.0)
+endpos(-3.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:2951
+startpos: (-1.0, 1.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-6014
+startpos: (-3.0, -2.0, 0.0)
+endpos(-2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:2947
+startpos: (1.0, 2.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-6007
+startpos: (-2.0, -2.0, 0.0)
+endpos(-1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:2956
+startpos: (0.0, 2.0, 0.0)
+endpos(-1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-5992
+startpos: (-1.0, -2.0, 0.0)
+endpos(0.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:2994
+startpos: (-1.0, 2.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-8091
+startpos: (-3.0, 0.0, 0.0)
+endpos(-4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:5860
+startpos: (-2.0, 2.0, 0.0)
+endpos(-3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1005126
+startpos: (-4.0, 0.0, 0.0)
+endpos(-3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1005108
+startpos: (-3.0, 2.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1008066
+startpos: (-3.0, 0.0, 0.0)
+endpos(-3.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1008063
+startpos: (-3.0, 1.0, 0.0)
+endpos(-4.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1008340
+startpos: (0.0, -2.0, 0.0)
+endpos(1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1008358
+startpos: (-2.0, 1.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1008333
+startpos: (1.0, -2.0, 0.0)
+endpos(1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1008353
+startpos: (-4.0, 1.0, 0.0)
+endpos(-4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.904808 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.387129 ms (FindLiveObjects: 0.043105 ms CreateObjectMapping: 0.012726 ms MarkObjects: 0.303792 ms  DeleteObjects: 0.025452 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568584 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 587.
+Total: 0.408477 ms (FindLiveObjects: 0.049674 ms CreateObjectMapping: 0.017242 ms MarkObjects: 0.326781 ms  DeleteObjects: 0.014368 ms)
+
+green move calculated:
+value:-9
+startpos: (-4.0, 2.0, 0.0)
+endpos(-4.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-28
+startpos: (3.0, 1.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-13
+startpos: (-4.0, -2.0, 0.0)
+endpos(-3.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-24
+startpos: (2.0, 1.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-16
+startpos: (-4.0, 1.0, 0.0)
+endpos(-4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-29
+startpos: (4.0, 2.0, 0.0)
+endpos(4.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-14
+startpos: (-4.0, 0.0, 0.0)
+endpos(-3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-55
+startpos: (4.0, -2.0, 0.0)
+endpos(3.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-4
+startpos: (-3.0, 0.0, 0.0)
+endpos(-2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-76
+startpos: (1.0, 1.0, 0.0)
+endpos(1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:33
+startpos: (-3.0, -2.0, 0.0)
+endpos(-2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-78
+startpos: (3.0, -2.0, 0.0)
+endpos(2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:30
+startpos: (-2.0, -2.0, 0.0)
+endpos(-2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-104
+startpos: (4.0, 1.0, 0.0)
+endpos(3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:23
+startpos: (-3.0, -1.0, 0.0)
+endpos(-3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-86
+startpos: (3.0, 1.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-18
+startpos: (-2.0, -1.0, 0.0)
+endpos(-2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-28
+startpos: (2.0, -2.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-26
+startpos: (-2.0, -2.0, 0.0)
+endpos(-2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-65
+startpos: (2.0, -1.0, 0.0)
+endpos(2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-67
+startpos: (-2.0, -1.0, 0.0)
+endpos(-1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-29
+startpos: (3.0, -1.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-98
+startpos: (-1.0, -1.0, 0.0)
+endpos(-1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1
+startpos: (2.0, -1.0, 0.0)
+endpos(1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-118
+startpos: (-1.0, -2.0, 0.0)
+endpos(-2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:7
+startpos: (1.0, -1.0, 0.0)
+endpos(1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-98
+startpos: (-2.0, 0.0, 0.0)
+endpos(-2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1
+startpos: (1.0, -2.0, 0.0)
+endpos(2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-87
+startpos: (-2.0, -1.0, 0.0)
+endpos(-1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-16
+startpos: (2.0, 1.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-90
+startpos: (-1.0, -1.0, 0.0)
+endpos(-1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1
+startpos: (2.0, -2.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-114
+startpos: (-2.0, -2.0, 0.0)
+endpos(-2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-10
+startpos: (1.0, 2.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-157
+startpos: (-3.0, 0.0, 0.0)
+endpos(-2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:41
+startpos: (0.0, 2.0, 0.0)
+endpos(-1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-168
+startpos: (-2.0, 0.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:12
+startpos: (1.0, 1.0, 0.0)
+endpos(1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-170
+startpos: (-3.0, 1.0, 0.0)
+endpos(-3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:40
+startpos: (2.0, 0.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-165
+startpos: (-3.0, 0.0, 0.0)
+endpos(-4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:61
+startpos: (2.0, 1.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-198
+startpos: (-2.0, 1.0, 0.0)
+endpos(-2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:52
+startpos: (-1.0, 2.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-3630
+startpos: (-2.0, 0.0, 0.0)
+endpos(-1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:3412
+startpos: (-2.0, 2.0, 0.0)
+endpos(-3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1003277
+startpos: (-1.0, 0.0, 0.0)
+endpos(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1003287
+startpos: (-3.0, 2.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1004159
+startpos: (0.0, 0.0, 0.0)
+endpos(0.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1004155
+startpos: (-3.0, 1.0, 0.0)
+endpos(-4.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1004465
+startpos: (0.0, -1.0, 0.0)
+endpos(1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1004461
+startpos: (1.0, 0.0, 0.0)
+endpos(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1005151
+startpos: (1.0, -1.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1005152
+startpos: (0.0, 0.0, 0.0)
+endpos(-1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1005159
+startpos: (-1.0, -2.0, 0.0)
+endpos(0.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1005137
+startpos: (1.0, 1.0, 0.0)
+endpos(1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-1005134
+startpos: (2.0, -1.0, 0.0)
+endpos(3.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:1005122
+startpos: (-4.0, 1.0, 0.0)
+endpos(-4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue piece index is:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue destination index is:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.786575 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.476214 ms (FindLiveObjects: 0.056242 ms CreateObjectMapping: 0.046389 ms MarkObjects: 0.344845 ms  DeleteObjects: 0.027505 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.620310 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 587.
+Total: 0.565710 ms (FindLiveObjects: 0.077179 ms CreateObjectMapping: 0.027505 ms MarkObjects: 0.443783 ms  DeleteObjects: 0.016010 ms)
+
+green move calculated:
+value:-9
+startpos: (-4.0, 2.0, 0.0)
+endpos(-3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-30
+startpos: (4.0, -2.0, 0.0)
+endpos(3.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-8
+startpos: (-3.0, -1.0, 0.0)
+endpos(-2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-30
+startpos: (3.0, 1.0, 0.0)
+endpos(2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-9
+startpos: (-3.0, 2.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-33
+startpos: (3.0, -2.0, 0.0)
+endpos(2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-11
+startpos: (-2.0, 2.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-36
+startpos: (4.0, 2.0, 0.0)
+endpos(3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-10
+startpos: (-2.0, 1.0, 0.0)
+endpos(-1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-29
+startpos: (3.0, 2.0, 0.0)
+endpos(2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-50
+startpos: (-1.0, 1.0, 0.0)
+endpos(-1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:3
+startpos: (2.0, 2.0, 0.0)
+endpos(1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-89
+startpos: (-1.0, 0.0, 0.0)
+endpos(-1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-5
+startpos: (2.0, -2.0, 0.0)
+endpos(2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-88
+startpos: (-4.0, -2.0, 0.0)
+endpos(-3.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:4
+startpos: (2.0, -1.0, 0.0)
+endpos(1.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-64
+startpos: (-3.0, -2.0, 0.0)
+endpos(-2.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-27
+startpos: (1.0, -1.0, 0.0)
+endpos(1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-81
+startpos: (-2.0, -2.0, 0.0)
+endpos(-1.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-67
+startpos: (1.0, 2.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-118
+startpos: (-2.0, -1.0, 0.0)
+endpos(-2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-79
+startpos: (3.0, -1.0, 0.0)
+endpos(3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-48
+startpos: (-1.0, -2.0, 0.0)
+endpos(0.0, -2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-129
+startpos: (1.0, 0.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-165
+startpos: (-3.0, 1.0, 0.0)
+endpos(-3.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-58
+startpos: (1.0, 1.0, 0.0)
+endpos(0.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-215
+startpos: (-1.0, -1.0, 0.0)
+endpos(-1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-87
+startpos: (0.0, 2.0, 0.0)
+endpos(1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-99
+startpos: (0.0, -2.0, 0.0)
+endpos(0.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:-70
+startpos: (0.0, 1.0, 0.0)
+endpos(0.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-227
+startpos: (-3.0, 2.0, 0.0)
+endpos(-3.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:105
+startpos: (0.0, 2.0, 0.0)
+endpos(-1.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-994
+startpos: (-2.0, 0.0, 0.0)
+endpos(-2.0, -1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:112
+startpos: (-1.0, 2.0, 0.0)
+endpos(-2.0, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-2219
+startpos: (-1.0, 0.0, 0.0)
+endpos(0.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:209
+startpos: (1.0, 2.0, 0.0)
+endpos(1.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-3909
+startpos: (-3.0, 3.0, 0.0)
+endpos(-2.0, 3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:2823
+startpos: (-2.0, 2.0, 0.0)
+endpos(-2.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-998909
+startpos: (0.0, 0.0, 0.0)
+endpos(1.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:998902
+startpos: (-2.0, 1.0, 0.0)
+endpos(-3.0, 1.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-998883
+startpos: (1.0, 0.0, 0.0)
+endpos(2.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:998892
+startpos: (-3.0, 1.0, 0.0)
+endpos(-3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Blue finishes, Green's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+green move calculated:
+value:-998904
+startpos: (2.0, 0.0, 0.0)
+endpos(3.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Green finishes, Blue's turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+blue move calculated:
+value:998898
+startpos: (-3.0, 0.0, 0.0)
+endpos(-4.0, 0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+

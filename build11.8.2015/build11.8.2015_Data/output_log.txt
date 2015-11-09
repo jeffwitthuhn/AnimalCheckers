@@ -1,0 +1,32 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     816 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.063 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Research\440\AnimalCheckers\build11.8.2015_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 35e8 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.575460 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 0.413403 ms (FindLiveObjects: 0.081284 ms CreateObjectMapping: 0.016831 ms MarkObjects: 0.301329 ms  DeleteObjects: 0.012315 ms)
+
